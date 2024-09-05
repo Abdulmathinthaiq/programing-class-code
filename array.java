@@ -25,23 +25,5 @@ public class array {
 		for (int [] arr:a) {
 			System.out.println(Arrays.toString(arr));
 		}
-		
-		//m1(a);
-		
-	}
-
-//	private static void m1(int[][] a) {
-//		// TODO Auto-generated method stub
-//		int[] []res=new int[a.length][a.length];
-//		for (int i=0;i<a.length;i++) {
-//			
-//			for (int j=0;j<a[i].length;j++) {
-//				res[j][i]=a[i][j];
-//				
-//			}
-//		}
-//		System.out.println(Arrays.deepToString(res));
-//		
-//	}
-	
+	}	
 }
